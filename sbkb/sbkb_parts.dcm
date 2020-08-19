@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NHD-0220DZ-NSW-BBW
+D Character LCD Display Module - 20x2 Characters - Transmissive 5x8 Dots - Super-Twisted Nematic LED (White)
+K LCD, 20x2
+F http://www.newhavendisplay.com/specs/NHD-0220DZ-NSW-BBW.pdf
+$ENDCMP
+#
+#End Doc Library
